@@ -1,0 +1,13 @@
+/* Write your code here. */
+.app-container {
+  background-image: linear-gradient(to Right, #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.image {
+  height: 50vh;
+}
